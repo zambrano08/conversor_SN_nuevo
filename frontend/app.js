@@ -620,4 +620,4 @@ style.textContent = `
         100% { transform: scale(1); opacity: 1; }
     }
 `;
-document.head.appendChild(style);
+document.head.appendChild(style); 
